@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text_color {
+  @apply text-[#173d4a];
+}
+
+.radius {
+  border-radius:  130px   5px;
+}
